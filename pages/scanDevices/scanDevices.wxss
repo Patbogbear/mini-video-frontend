@@ -1,0 +1,19 @@
+/* pages/scanDevices/scanDevices.wxss */
+/* pages/scanDevices/scanDevices.wxss */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+camera {
+  width: 100%;
+  height: 300px;
+}
+
+image {
+  width: 100%;
+  height: 300px;
+  margin-top: 20px;
+}

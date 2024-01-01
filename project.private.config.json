@@ -1,0 +1,6 @@
+{
+  "projectname": "minapp",
+  "setting": {
+    "compileHotReLoad": true
+  }
+}

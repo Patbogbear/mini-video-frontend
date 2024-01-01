@@ -1,0 +1,6 @@
+<!-- pages/scanDevices/scanDevices.wxml -->
+<view class="button-group">
+  <button bindtap="takePhoto">拍照</button>
+  <button bindtap="chooseImageFromAlbum">从相册选择</button>
+</view>
+

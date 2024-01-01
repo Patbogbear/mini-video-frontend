@@ -1,0 +1,7 @@
+<!-- login.wxml -->
+<view class="container">
+  <button open-type="getUserInfo" bindgetuserinfo="onLogin">登录</button>
+</view>
+<view class="container" wx:if="{{isLoggedIn}}">
+  <button bindtap="onScanDevices">识别摄像头设备</button>
+</view>
